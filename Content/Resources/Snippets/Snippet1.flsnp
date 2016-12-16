@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Snippet</p>
+        <p>A pre-set chunk of content that you can use in your project over and over. Snippets are similar to variables, but snippets are used for longer chunks of content that you can format just as you would any other content in your topic. In snippets, you can also insert tables, pictures, and whatever else can be included in a normal topic.</p>
+    </body>
+</html>
